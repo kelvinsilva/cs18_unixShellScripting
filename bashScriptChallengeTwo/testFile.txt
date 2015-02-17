@@ -1,6 +1,7 @@
-xboxOne 33 350
-ps$ 15 300
-ipad 20 200
-pencils 50 .50
-iphone6 40 200
-
+product 3 300
+product 1 200
+product 2 300
+product 3 300
+product 1 200
+product 2 300
+product 3 300
